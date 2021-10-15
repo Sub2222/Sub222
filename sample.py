@@ -1,6 +1,9 @@
- 1 for i in range(5):
- 2       for j in range(i+1):
- 3           print('*', end="")
- 4    print('')
- 5
- 6
+ 1'''
+ 2 for i in range(5):
+ 3       for j in range(i+1):
+ 4           print('*', end="")
+ 5   print('')
+ 6'''
+ 7
+ 8 print("This ia modified file")
+ 9
